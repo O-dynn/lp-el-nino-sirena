@@ -5,7 +5,7 @@ Case visual desenvolvido para apresentar o projeto **El Niño Sirena**, exploran
 O objetivo do projeto é demonstrar como um mesmo universo narrativo pode assumir atmosferas visuais diferentes por meio de cor, composição, tipografia e linguagem gráfica.
 
 🔗 Visualização online no portfólio:
-https://O-dynn.github.io/
+[https://O-dynn.github.io/](https://O-dynn.github.io/)
 
 ---
 
