@@ -81,17 +81,15 @@ Transformar duas capas em um case de portfólio com leitura mais autoral, destac
 
 ---
 
-## 🧑‍💻 Autor
+## 👨‍💻 Autor
 
-**Adson Isan**
-
+**Adson Isan**  
 📍 Itapetininga/SP  
-📧 ads.if2407@gmail.com  
-
-💬 [WhatsApp](https://wa.me/5515998584798)  
-💼 [LinkedIn](https://linkedin.com/in/adson-isan-mkt)  
-🌐 [GitHub](https://github.com/O-dynn)  
-🎨 [Portfólio](https://O-dynn.github.io/)
+📧 [ads.if2407@gmail.com](mailto:ads.if2407@gmail.com)  
+📸 [Instagram](https://www.instagram.com/_ads_if_)  
+💼 [LinkedIn](https://www.linkedin.com/in/adson-isan-573870375/)  
+💬 [WhatsApp](https://wa.me/5515998584798?text=Olá%20Adson!)  
+💼 [Portfólio de Marketing Digital](https://o-dynn.github.io/Meu-Portfolio-EMD/)
 
 ---
 
